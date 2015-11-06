@@ -55,6 +55,7 @@ db.collection.dropIndexes()
 
 ##Geospatial Indexes: 
 `[$near][type:"Point"][spherical:true][$geoWithin,$geometry][type:"Polygon"][]`
+
 loc:[x,y]
 createIndexes: db.collections.createIndexes({loc : "2dsphere"})
 
