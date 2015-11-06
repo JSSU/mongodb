@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"inputValue"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"onmou",
+				"onmouseout	Attr"
+			],
+			[
+				"log",
+				"log_path"
+			],
+			[
+				"print",
+				"print_result"
+			],
+			[
+				"W",
+				"W"
+			],
+			[
+				"win",
+				"windows"
+			],
+			[
+				"string",
+				"string_ls"
+			],
+			[
+				"window",
+				"window_string"
+			],
+			[
+				"socke",
+				"socket_address"
+			],
+			[
+				"comment",
+				"comment_ordinal"
+			],
+			[
+				"find",
+				"find_one"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"directory_",
+				"directory_location"
+			],
+			[
+				"dir",
+				"directory_port"
+			],
+			[
+				"directory",
+				"directory_name"
+			],
+			[
+				"ROLLBACK",
+				"ROLLBACK"
+			],
+			[
+				"n",
+				"newcomment"
+			],
+			[
+				"stu",
+				"student"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"stud",
+				"student_id"
+			],
+			[
+				"frui",
+				"fruit_selection"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"my",
+				"myOut"
+			],
+			[
+				"mouse",
+				"mouseMover"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"whi",
+				"whitespace"
+			],
+			[
+				"st",
+				"strip"
+			],
+			[
+				"is",
+				"is_abc"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"step_",
+				"step_angel"
+			],
+			[
+				"p",
+				"polygon"
+			],
+			[
+				"ema",
+				"EMAIL_HOST"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"if",
+				"ifstream"
+			],
+			[
+				"cou",
+				"continue"
+			],
+			[
+				"str",
+				"str2unixtsSec"
+			],
+			[
+				"va",
+				"validdate"
+			],
+			[
+				"compar",
+				"compareVersion"
+			],
+			[
+				"Gen",
+				"generate"
+			],
+			[
+				"u",
+				"unordered_map"
+			],
+			[
+				"pritn",
+				"printA"
+			],
+			[
+				"lenres",
+				"lenres-1"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"wo",
+				"wordBreak"
+			],
+			[
+				"quick",
+				"quicksort"
+			],
+			[
+				"len",
+				"lengthOfLongestSubstring"
+			],
+			[
+				"insert",
+				"insert_value"
+			],
+			[
+				"list",
+				"listone"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"node",
+				"Node"
+			],
+			[
+				"pro",
+				"profileAdmin"
+			],
+			[
+				"def",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "update.py",
+			"settings":
+			{
+				"buffer_size": 3134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/shenjunsu/Desktop/MongoDB/mongo102/chapter_2_crud_and_administrative_commands/homework_2_1/products.json",
+			"settings":
+			{
+				"buffer_size": 2617,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/shenjunsu/Desktop/MongoDB/mongo102/chapter_2_crud_and_administrative_commands/homework_2_1/homework2.js",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "ssmd",
+		"selected_items":
+		[
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packege",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"?",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"CC google1.cpp"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shenjunsu/Desktop/MongoDB/mongo102/Note"
+	],
+	"file_history":
+	[
+		"/Users/shenjunsu/Desktop/update.py",
+		"/Users/shenjunsu/Desktop/Baltimore Position Requirments",
+		"/Users/shenjunsu/Desktop/Django.sublime-workspace",
+		"/Users/shenjunsu/Documents/myDJ/djangoproject/db.sqlite3",
+		"/Users/shenjunsu/Documents/myDJ/env/pip-selfcheck.json",
+		"/usr/local/bin/virtualenv",
+		"/usr/local/bin/mongo",
+		"/usr/local/bin/sublime",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/心灵鸡汤都是假的.md",
+		"/Users/shenjunsu/Desktop/javascript/test.html",
+		"/Users/shenjunsu/Desktop/javascript/jquery-ui-1.11.4/jquery-ui.js",
+		"/Users/shenjunsu/Desktop/javascript/scope.html",
+		"/Users/shenjunsu/Desktop/js.sublime-project",
+		"/Users/shenjunsu/Desktop/hexo.sublime-project",
+		"/Users/shenjunsu/Desktop/javascript/char.html",
+		"/Users/shenjunsu/Desktop/存一些临时的文件/python题目/reg.py",
+		"/Users/shenjunsu/Desktop/javascript/922.html",
+		"/Users/shenjunsu/Desktop/存一些临时的文件/python题目/sortpython.py",
+		"/Users/shenjunsu/Desktop/存一些临时的文件/python题目/whereis.py",
+		"/Users/shenjunsu/Desktop/Fred.html",
+		"/Users/shenjunsu/Lytmus/question_3/example.log",
+		"/Users/shenjunsu/Lytmus/question_2/answer.py",
+		"/Users/shenjunsu/Lytmus/question_1/answer.py",
+		"/Users/shenjunsu/Desktop/存一些临时的文件/python题目/python_anser2.py",
+		"/Users/shenjunsu/Desktop/存一些临时的文件/python题目/python_answer1.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/classDoc/final_exam/question_4/final4/final4/mongoimport format json.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/classDoc/chapter_2_crud/pymongo_updating/using_update.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw7_3.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw7_2.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw7_1.py",
+		"/Users/shenjunsu/Lytmus/question_2/answer.sql",
+		"/Users/shenjunsu/Lytmus/question_1/cache_probe.py",
+		"/Users/shenjunsu/Desktop/MyPython/simpleDB.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/createports.sh",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw5_3.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw5_2.py",
+		"/Users/shenjunsu/Desktop/简历/2015Latex/v1.tex",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/Latex resume.tex",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw5_4.py",
+		"/Users/shenjunsu/Desktop/MyPython/simpleDBBK.py",
+		"/Users/shenjunsu/Desktop/MyPython/InputSDB.txt",
+		"/Users/shenjunsu/Desktop/FTP/simpledb.cpp",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw3_1.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/classDoc/chapter_3_schema_design/homework_3_2/hw3-2and3-3/hw3-2and3-3/userDAO.py",
+		"/Users/shenjunsu/Desktop/MongoDB/Blog/userDAO.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw2_2.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/hw2_2_sol.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/mod/note_hw3_1.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/classDoc/chapter_2_crud/homework_2_2/grades.json",
+		"/Users/shenjunsu/Desktop/MongoDB/Blog/userDAO.pybk",
+		"/Users/shenjunsu/Desktop/MongoDB/Blog/homework_2_1/grades.json",
+		"/Users/shenjunsu/Desktop/MongoDB/Blog/homework_2_2/grades.json",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/classDoc/chapter_2_crud/pymongo_removing_data/remove_student_data.py",
+		"/Users/shenjunsu/Desktop/MongoDB/mongo101/Stuff/读json用python.txt",
+		"/Users/shenjunsu/Desktop/MyPython/readfile/tt.py",
+		"/Users/shenjunsu/Desktop/MyPython/readfile/tingting.txt",
+		"/Users/shenjunsu/Downloads/jsrpd.csv",
+		"/Users/shenjunsu/Downloads/jsrpd.xlsx",
+		"/Users/shenjunsu/Desktop/MongoDB/classDoc/chapter_1_introduction.e9b31121cdb8/homework_1_3/hw1-3.py",
+		"/Users/shenjunsu/Desktop/MongoDB/classDoc/chapter_1_introduction.e9b31121cdb8/homework_1_2/hw1-2.py",
+		"/Users/shenjunsu/Desktop/MongoDB/pymongo/client.py",
+		"/Users/shenjunsu/Desktop/MongoDB/web/fruit_form.py",
+		"/Users/shenjunsu/Desktop/MongoDB/bottle/helloworld.tpl",
+		"/Users/shenjunsu/Desktop/MongoDB/bottle/from bottle import route, run, template.py",
+		"/usr/local/var/log/mongodb/mongo.log",
+		"/Users/shenjunsu/Desktop/Hadoop/working-with-hdfs.txt",
+		"/Users/shenjunsu/Downloads/working-with-hdfs.txt",
+		"/Users/shenjunsu/Downloads/yushu.php",
+		"/Users/shenjunsu/Downloads/cluster_key/hirwuser150430.ppk",
+		"/Users/shenjunsu/Downloads/cluster_key/hirwuser150430.pem",
+		"/Users/shenjunsu/Downloads/yushu.html",
+		"/Users/shenjunsu/.ssh/id_rsa_hadoop",
+		"/Users/shenjunsu/.ssh/id_rsa",
+		"/Users/shenjunsu/Desktop/id_rsa_hadoop",
+		"/Users/shenjunsu/Desktop/id_rsa_bk",
+		"/Users/shenjunsu/.ssh/config",
+		"/Users/shenjunsu/.ssh/id_rsa.pub",
+		"/Users/shenjunsu/.ssh/github_rsa",
+		"/Users/shenjunsu/.ssh/known_hosts",
+		"/Users/shenjunsu/Desktop/罚款/车子17000/untitled",
+		"/Users/shenjunsu/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/rabbitftp",
+		"/Users/shenjunsu/Downloads/learnjavaeasy.html",
+		"/Users/shenjunsu/Desktop/MyPython/xie.txt",
+		"/Users/shenjunsu/Desktop/MyPython/beowulf.txt",
+		"/Users/shenjunsu/Desktop/MyPython/wordplay.py",
+		"/Users/shenjunsu/Desktop/MyPython/mypolgon.py",
+		"/Users/shenjunsu/Desktop/MyPython/example.py",
+		"/Users/shenjunsu/Documents/Python/tryDjango/src/tryDjango/urls.py",
+		"/Users/shenjunsu/Documents/Python/tryDjango是环境.txt",
+		"/Users/shenjunsu/Desktop/quantil.cpp",
+		"/Users/shenjunsu/Desktop/quInterview.cpp",
+		"/Users/shenjunsu/Desktop/MyPython/spanish3.py",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/WordBreak2.md",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/hello-world.md",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/FB应该录了吧.md",
+		"/Users/shenjunsu/Documents/myhexo/myhexo",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/_config.yml",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/hashtable.md",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/layout/_partial/post/share.ejs",
+		"/Users/shenjunsu/Documents/myhexo/_config.yml",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/layout/_partial/footer.ejs",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/layout/_partial/duoshuo.ejs",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/layout/post.ejs",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/layout/layout.ejs",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/newsfeed.md",
+		"/Users/shenjunsu/Documents/myhexo/source/tags/index.md",
+		"/Users/shenjunsu/Documents/myhexo/source/categories/index.md",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/Design.md",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/Timestamp.md",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/今天.md",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/TreeCode.md",
+		"/Users/shenjunsu/Desktop/Fuck Hexo/theme",
+		"/Users/shenjunsu/Documents/myhexo/themes/freemind/languages/zh-CN.yml",
+		"/Users/shenjunsu/Desktop/Fuck Hexo/script.as",
+		"/usr/local/bin/node",
+		"/usr/local/bin/brew",
+		"/usr/local/bin/hexo",
+		"/usr/local/hexo",
+		"/private/etc/paths",
+		"/Users/shenjunsu/Desktop/FTP/DNA.cpp",
+		"/Users/shenjunsu/Documents/myhexo/source/_posts/TestPage.md",
+		"/Users/shenjunsu/Desktop/FTP/tietree.cpp",
+		"/Users/shenjunsu/Documents/myhexo/themes/landscape/_config.yml",
+		"/Users/shenjunsu/Documents/myhexo/db.json",
+		"/Users/shenjunsu/Documents/myhexo/package.json",
+		"/Users/shenjunsu/Desktop/FTP/hashfunction.cpp",
+		"/Users/shenjunsu/Desktop/FTP/treeinterval.cpp",
+		"/Users/shenjunsu/Desktop/FTP/stringtwo.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"insert",
+			"document.getElementById('div1')",
+			"comment_ordinal",
+			"isinstance",
+			"xxx",
+			"XXX work here",
+			"路",
+			"unwind",
+			"Database",
+			"legalCmds",
+			"_transactionHistory",
+			"_doWrite",
+			"_database",
+			"_doWrite",
+			"author",
+			"xxx",
+			"Collection",
+			"b",
+			"a",
+			"login",
+			"invalid",
+			"SECRET",
+			"xxx",
+			"scores",
+			":",
+			";",
+			"currentStart",
+			"currentDiff",
+			"totalNumberOfOnes",
+			"flipEndIndex",
+			"flipStartIndex",
+			"simpleton",
+			"to",
+			"different_words",
+			"subtract",
+			"haven",
+			"hevean",
+			"heaven",
+			"()\n",
+			"EMAIL",
+			"email",
+			"tempStr",
+			"const",
+			"swiftype_key",
+			"math",
+			"google_analytics",
+			"duoshuo",
+			"com",
+			"comment",
+			"menu",
+			"duoshuo",
+			"duo'shuo",
+			"google_analytics",
+			"sitemap",
+			"plug'in",
+			"Sitemap",
+			"plug",
+			"site",
+			"search",
+			"git",
+			"coutner",
+			"maxcounter",
+			"max",
+			"counter",
+			"big",
+			"bi'g",
+			"4.",
+			"tree",
+			"regex",
+			"re'ge'x",
+			"print",
+			"_tree",
+			"&quot;",
+			"&quot",
+			"11",
+			"#",
+			"\n 	",
+			"void delete",
+			"delete",
+			"outputColor",
+			"bst()",
+			"newHead",
+			"p",
+			"c",
+			"p",
+			"c",
+			";\n",
+			"p",
+			"c",
+			"0",
+			"1",
+			"e",
+			"0",
+			"int p=3;\nint  *i=&p;\ncout<<i<<\"*i \"<<*i<<endl;",
+			"cout",
+			"* ",
+			"0",
+			"1",
+			"0",
+			"';\n",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "update.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2216,
+								2216
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/shenjunsu/Desktop/MongoDB/mongo102/chapter_2_crud_and_administrative_commands/homework_2_1/products.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 545.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/shenjunsu/Desktop/MongoDB/mongo102/chapter_2_crud_and_administrative_commands/homework_2_1/homework2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 92.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "Note.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
