@@ -53,8 +53,8 @@ db.collection.dropIndexes()
 + "unique:true"
 + sparse -if an index is unique AND sparse, 2 documents which do not include the field that is indexed can exist in the same collection.
 
-##Geospatial Indexes: [$near][type:"Point"][spherical:true]
-					  [$geoWithin,$geometry][type:"Polygon"][]
+##Geospatial Indexes: 
+`[$near][type:"Point"][spherical:true][$geoWithin,$geometry][type:"Polygon"][]`
 loc:[x,y]
 createIndexes: db.collections.createIndexes({loc : "2dsphere"})
 
